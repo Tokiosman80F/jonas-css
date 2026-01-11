@@ -1,0 +1,19 @@
+{
+  "name": "trello--practice",
+  "version": "1.0.0",
+  "description": "practicin trello project",
+  "license": "ISC",
+  "author": "toki osman",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass sass/main.scss css/style.css",
+    "sass:watch": "sass --watch sass/main.scss css/style.css"
+  },
+  "dependencies": {
+    "sass": "^1.94.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
